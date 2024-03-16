@@ -1,8 +1,13 @@
+@font-face{
+    font-family:kalame ;
+    src: url(../fonts/kalameh/Kalameh_Bold.ttf);
+}
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     direction: rtl;
+    font-family: kalame;
 }
 .navbar{
     width: 100%;
@@ -63,3 +68,59 @@ body{
     margin: 6px 157px 0 0;
     background-color: #dddbe1;
   }
+  .box1{
+    width: 179px;
+    height: 106px;
+    border-radius: 12px;
+    background-color: #0d0901;
+    position: relative;
+    right: 548px;
+    top: 5px;
+    margin: 19px;
+    color: white;
+    text-align: center;
+  }
+  .triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	border-top: 20px solid  #0d0901;
+    position: absolute;
+    right: 638px;
+    top: 186px;
+}
+.top-text-up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.toptext{
+    font-size: 56px;
+}
+.top-text-down{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+    width: 231px;
+    height: 106px;
+    border-radius: 12px;
+    background-color: #0d0901;
+    position: relative;
+    right: 868px;
+    bottom: 23px;
+    color: white;
+    text-align: center;
+  }
+  .triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	border-bottom: 20px solid  #0d0901;
+    position:relative;
+    right: 895px;
+    bottom: 22px;
+}
