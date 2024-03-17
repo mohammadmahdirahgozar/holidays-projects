@@ -96,6 +96,10 @@ body{
     align-items: center;
     position: relative;
 }
+.toptext5{
+    position: relative;
+    top: 7px;
+}
 .toptext{
     font-size: 56px;
 }
@@ -129,8 +133,134 @@ body{
     position: absolute;
     left: 500px;
 }
+.video-namdar{
+    text-align: center;
+}
 .video-namdar img{
     width: 1199px;
     height: 648px;
-    text-align: center;
 }
+.main{
+    display: flex;
+}
+.right-aside{
+    width: 15%;
+}
+.main-aside{
+    width: 65%;
+}
+.left-aside{
+    width: 20%;
+}
+.top-middle1{
+    color:#fcb816;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.middle1{
+    display: flex;
+}
+.middle1-right{
+    font-weight: 900;
+    font-size: 21px;
+}
+.middle1-left{
+    margin-right: 45px
+}
+.down-middle1{
+    margin-top: 20px;
+    display: inline-block;
+    border-bottom: 1px solid #dddbe1;
+}
+.middle2{
+    height: 300px;
+}
+.middle3{
+    display: flex;
+}
+.middle5{
+    height: 107px;
+}
+.middle3-right{
+    position: relative;
+    bottom: 165px;
+}
+.middle3-left{
+margin-right: 38px;
+}
+.middle3-left1{
+    font-size: 100px;}
+.middle3-left2{
+    height: 42px;
+    border-right: 1px solid #212121;
+}    
+.middle3-left3{
+    color: #fcb816;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.middle3-left4{
+    font-size: 24px;
+    line-height: 38px;
+}
+.middle3-left5{
+    font-size: 14px;
+    line-height: 24px;
+}
+.middle3-left6{
+        width: 149px;
+        height: 42px;
+        border-radius: 50px;
+        background-color: #fcb816;
+        line-height: 42px;
+        text-align: center;
+        margin-top: 20px;
+}
+.middle4{
+    display: flex;
+}
+.middle4-right{
+margin-right: 38px;
+position: relative;
+top: 105px
+}
+.middle4-right1{
+    font-size: 100px;}
+.middle4-right2{
+    height: 42px;
+    border-right: 1px solid #212121;
+}    
+.middle4-right3{
+    color: #fcb816;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.middle4-right4{
+    font-size: 24px;
+    line-height: 38px;
+}
+.middle4-right5{
+    font-size: 14px;
+    line-height: 24px;
+}
+.middle4-right6{
+        width: 149px;
+        height: 42px;
+        border-radius: 50px;
+        background-color: #fcb816;
+        line-height: 42px;
+        text-align: center;
+        margin-top: 20px;
+}
+.middle4-left{
+        width: 526px;
+        height: 330px;
+}
+.middle6{
+    height: 67px;
+}
+.line3 {
+    width: 992px;
+    height: 1px;
+    background-color: #dddbe1;
+  }
