@@ -129,3 +129,8 @@ body{
     position: absolute;
     left: 500px;
 }
+.video-namdar img{
+    width: 1199px;
+    height: 648px;
+    text-align: center;
+}
