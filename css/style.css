@@ -94,6 +94,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 .toptext{
     font-size: 56px;
@@ -123,4 +124,8 @@ body{
     position:relative;
     right: 895px;
     bottom: 22px;
+}
+.toptextimage{
+    position: absolute;
+    left: 500px;
 }
