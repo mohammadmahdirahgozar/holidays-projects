@@ -257,10 +257,16 @@ top: 105px
         height: 330px;
 }
 .middle6{
-    height: 67px;
+    height: 118px;
 }
 .line3 {
     width: 992px;
     height: 1px;
     background-color: #dddbe1;
+  }
+  .middle7{
+    text-align: center;
+  }
+  .middle8{
+    height: 158px;
   }
