@@ -425,4 +425,113 @@ top: 105px
         font-size: 14px;
         line-height: 24px;
      }
+     .middle15{
+        height: 53px;
+     }
+     .middle16{
+        text-align: center;
+        font-size: 16px;
+        line-height: 38px;
+        
+     }
+      .middle17{
+        width: 118px;
+        height: 1px;
+        background-color: #dddbe1;
+        text-align: center;
+      }
+      .middle18{
+        height: 114px;
+      }        
+      .middle19{
+        text-align: center;
+      }
+      .middle20{
+        height: 28px;
+      }
+      .middle21{
+        font-size: 16px;
+        color: #fcb816;
+        text-align: center;
+      }
+      .middle22{
+        font-size: 24px;
+        line-height: 38px;
+        text-align: center;
+      }
+      .middle23{
+        width: 879px;
+        height: 101px;
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+      }
+      .middle24{
+        height: 43px;
+        display: flex;
+        margin-right: 100px;
+        margin-top: 43px;
+      }
+      .middle24-right1{
+        font-size: 32px;
+        padding-left: 63px;
+      }
+      .middle24-right2{ 
+            width: 1px;
+            height: 71px;
+            background-color: #dddbe1;
+      }
+      .middle24-center1{
+        text-align: center;
+        font-size: 32px;
+        padding-left: 63px;
+        padding-right: 85px;
+      }
+      .middle24-center2{ 
+        width: 1px;
+        height: 71px;
+        background-color: #dddbe1;
+  }
+      .middle24-left{
+       font-size: 32px;
+       padding-right: 85px;
+  }
+  .middle25{
+    height: 81px;
+  }
+  .middle26{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  .middle26-right{
+        width: 149px;
+        height: 44px;
+        text-align: center;
+        margin-left: 18px;
+        line-height: 44px;
+        border-radius: 50px;
+        background-color: #fcb816;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        -ms-border-radius: 50px;
+        -o-border-radius: 50px;
+  }
+  .middle26-left{
+        width: 224px;
+        height: 44px;
+        border-radius: 50px;
+        box-shadow: 0 10px 10px 0 rgba(255, 255, 255, 0.1);
+        border: solid 1px #0d0901;
+        text-align: center;
+        line-height: 44px;
+  }
+  .middle27{
+    height:166px ;
+  }
+
+
+
+      
 
