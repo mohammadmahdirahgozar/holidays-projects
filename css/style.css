@@ -142,6 +142,7 @@ body{
 }
 .main{
     display: flex;
+    width: 100%;
 }
 .right-aside{
     width: 15%;
@@ -149,7 +150,7 @@ body{
 .main-aside{
     width: 65%;
 }
-.left-aside{
+.leftaside{
     width: 20%;
 }
 .top-middle1{
@@ -276,10 +277,14 @@ top: 105px
     margin-left: 35px;
   }
   .middle9-right1{
-    color: #fcb816;}
+    color: #fcb816;
+    line-height: 38px;
+    }
   .middle9-right2{
         font-size: 24px;
+        line-height: 38px;
     }
     .middle9-right3{
     font-size: 14px;
+    line-height: 24px;
     }
