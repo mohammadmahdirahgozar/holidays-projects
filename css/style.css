@@ -582,8 +582,33 @@ top: 105px
     font-size: 20px;
     margin-top: 20px;
  }
-
-
+ .middle28-left-left3{
+  display: flex;
+  margin-top: 21px;
+ }
+ .middle28-left-left3-right{
+  color: #a2a2a2;
+ }
+.middle28-left-left3-center{
+  margin-right: 48px;
+  color: #a2a2a2;
+}
+.middle28-left-left3-left{
+  margin-right: 48px;
+  color: #a2a2a2;
+}
+.middle28-left-left4{
+  font-size: 14px;
+  line-height: 21px;
+  margin-left: 38px;
+  margin-top: 30px;
+}
+.line4{
+  margin-top: 19px;
+    width: 646px;
+    height: 1px;
+    background-color: #ebebeb;
+}
 
       
 
